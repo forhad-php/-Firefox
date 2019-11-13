@@ -1,0 +1,17 @@
+#screenshots_mozilla_org-menuitem-_create-screenshot {
+    display: none;
+}
+
+#printedit-we_dw-dev-menuitem-2 {
+    display: none;
+}
+
+#support_lastpass_com-menuitem-8 {
+    display: none;
+}
+
+/* Firefox userChrome.css */
+
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+* { background-color: orange !important; }
