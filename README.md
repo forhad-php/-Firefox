@@ -7,7 +7,12 @@
 - [ ] Enable remote debugging
 - Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>
 - OK to allow connetction.
-- In the new dev tool options, marked
+- In the new dev tool toggle button, marked
 - [ ] Disable Popup Auto-Hide
 - Now right-click to show options of context menu
 - Pick an element from the page.
+
+# Find the Profile Folder
+
+- Toggle Button → Help → Troubleshooting Information
+- Profile Folder → Open Folder
